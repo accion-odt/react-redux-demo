@@ -11,7 +11,7 @@ const ComponentOne = props => {
 
   return (
     <div className="ComponentOne">
-      <h5>1. Fuctional Component</h5>
+      <h5>Component with Counter</h5>
 
       <p>Counter: {counter}</p>
       <p>Text: {text} </p>

@@ -8,7 +8,7 @@ class ComponentThree extends React.Component {
     let text = this.props.text.value;
     return (
       <div className="ComponentThree">
-        <h5>3. Class Component</h5>
+        <h5>Class Component - Reading both Counter state and text state</h5>
         <p>Counter: {counter}</p>
         <p>Text: {text} </p>
       </div>
